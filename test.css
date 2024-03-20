@@ -1,0 +1,832 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.ContactMecontainer {
+    position: absolute;
+    width: 375px;
+    height: 779px;
+    left: 0;
+    top: 5410px;
+    background-image: url('Assets/Contact\ mebackCOntact.png');
+}
+
+.ContactMetitlcontainer {
+    width: 375px;
+    height: 56px;
+    position: relative;
+    top: 103px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    text-align: center;
+    color: #fff;
+}
+
+.ContactMetxtcontainer {
+    width: 327px;
+    height: 137px;
+    position: relative;
+    top: 115px;
+    left: 24px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    color: #fff;
+}
+
+.fourmcontainer {
+    position: relative;
+    top: 300px;
+}
+
+.FourmNamecontainer,
+.Fourmemailcontainer,
+.fourmtextcontainer,
+.getintouchcontainer {
+    width: 327px;
+    position: relative;
+    left: 24px;
+    border: 1px solid #cfd8dc;
+    border-radius: 8px;
+}
+
+.FourmNamecontainer,
+.Fourmemailcontainer,
+.fourmtextcontainer {
+    height: 48px;
+}
+
+.fourmtextcontainer {
+    height: 170px;
+}
+
+.getintouchcontainer {
+    height: 48px;
+    color: #6070ff;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+}
+
+.Workscontainer {
+    width: 375px;
+    height: 2,788px;
+    top: 718px;
+    padding: 114px 24px 114px 24px;
+    display: grid;
+    grid-column: 25% 25% 25% 25%;
+    gap: 88px;
+  }
+  
+  .Card1container {
+    width: 327px;
+    height: 552px;
+    padding: 16px;
+    border-style: solid;
+    border-radius: 16px;
+    border-width: 1px;
+    display: grid;
+    gap: 12px;
+    border-color: #dfe1e6;
+  }
+  
+  .snap1container {
+    width: 295px;
+    height: 220px;
+    border-radius: 8px;
+    background-image: url('Assets/Snapshoot\ Portfoliocard1.png');
+    background-size: cover;
+  }
+  
+  .Lblock1container {
+    width: 295px;
+    height: 288px;
+    display: grid;
+    gap: 12px;
+  }
+  
+  .PrimTx1container {
+    width: 295px;
+    height: 80px;
+    display: grid;
+  }
+  
+  .titl1container {
+    width: 295px;
+    height: 36px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+    color: #172b4d;
+  }
+  
+  .frame1container {
+    width: 236px;
+    height: 32px;
+    background-image: url('Assets/Frame\ 2information.svg');
+  }
+  
+  .Ptx1container {
+    width: 295px;
+    height: 76px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0;
+    margin: 0;
+    text-align: left;
+    color: #344563;
+  }
+  
+  .Class1tagscontainer {
+    width: 214px;
+    height: 24px;
+    display: flex;
+    gap: 8px;
+  }
+  
+  .Class1tag1container {
+    width: 57px;
+    padding: 4px 12px 4px 12px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    background: #ebebff;
+    color: #ebebff;
+  }
+  
+  .Class1tag1textcontainer {
+    width: 33px;
+    height: 16px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    margin: 0;
+    color: #6070ff;
+  }
+  
+  .Class1tag2container {
+    width: 49px;
+    padding: 4px 12px 4px 12px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    background: #ebebff;
+    color: #ebebff;
+  }
+  
+  .Class1tag2textcontainer {
+    width: 25px;
+    height: 16px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    margin: 0;
+    color: #6070ff;
+  }
+  
+  .Class1tag3container {
+    width: 92px;
+    padding: 4px 12px 4px 12px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    background: #ebebff;
+    color: #ebebff;
+  }
+  
+  .Class1tag3textcontainer {
+    width: 68px;
+    height: 16px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-justify: center;
+    margin: 0;
+    color: #6070ff;
+  }
+  
+  .Action1container {
+    width: 295px;
+    height: 72px;
+  }
+  
+  .Action1Bt1container {
+    width: 126px;
+    height: 48px;
+    margin-top: 12px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #6070ff;
+  }
+  
+  .Action1Bt1Tx1container {
+    width: 102px;
+    height: 24px;
+    margin: 12px;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #396df2;
+  }
+  
+  .Card2container {
+    width: 327px;
+    height: 592px;
+    padding: 16px;
+    border-style: solid;
+    border-radius: 16px;
+    border-width: 1px;
+    display: grid;
+    gap: 12px;
+    border-color: #dfe1e6;
+  }
+  
+  .snap2container {
+    width: 295px;
+    height: 220px;
+    border-radius: 8px;
+    background-image: url('Assets/Snapshoot\ PortfolioSnapshot2.svg');
+    background-size: cover;
+  }
+  
+  .Lblock2container {
+    width: 295px;
+    height: 332px;
+    display: grid;
+    gap: 12px;
+  }
+  
+  .PrimTx2container {
+    width: 295px;
+    height: 124px;
+    display: grid;
+  }
+  
+  .titl2container {
+    width: 295px;
+    height: 80px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+    color: #172b4d;
+  }
+  
+  .Card3container {
+    width: 327px;
+    height: 552px;
+    padding: 16px;
+    border-style: solid;
+    border-radius: 16px;
+    border-width: 1px;
+    display: grid;
+    gap: 12px;
+    border-color: #dfe1e6;
+  }
+  
+  .snap3container {
+    width: 295px;
+    height: 220px;
+    border-radius: 8px;
+    background-image: url('Assets/Snapshoot\ PortfolioSNAP3.svg');
+    background-size: cover;
+  }
+  
+  .Lblock3container {
+    width: 295px;
+    height: 288px;
+    display: grid;
+    gap: 12px;
+  }
+  
+  .PrimTx3container {
+    width: 295px;
+    height: 80px;
+    display: grid;
+  }
+  
+  .titl3container {
+    width: 295px;
+    height: 36px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+    color: #172b4d;
+  }
+  
+  .Card4container {
+    width: 327px;
+    height: 592px;
+    padding: 16px;
+    border-style: solid;
+    border-radius: 16px;
+    border-width: 1px;
+    display: grid;
+    gap: 12px;
+    border-color: #dfe1e6;
+  }
+  
+  .snap4container {
+    width: 295px;
+    height: 220px;
+    border-radius: 8px;
+    background-image: url('Assets/Snapshoot\ Portfoliosnap4.svg');
+    background-size: cover;
+  }
+  
+  .Lblock4container {
+    width: 295px;
+    height: 332px;
+    display: grid;
+    gap: 12px;
+  }
+  
+  .PrimTx4container {
+    width: 295px;
+    height: 124px;
+    display: grid;
+  }
+  
+  .titl4container {
+    width: 295px;
+    height: 80px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+    color: #172b4d;
+  }
+  
+  .AboutMySelfcontainer {
+    width: 375px;
+    height: 1062.15px;
+    top: 3506px;
+    padding: 114px 24px 114px 24px;
+    display: grid;
+    gap: 24px;
+  }
+  
+  .TOPcontainer {
+    width: 327px;
+    height: 346px;
+    display: grid;
+    gap: 12px;
+  }
+  
+  .text1container {
+    width: 327px;
+    height: 35px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    margin: 0;
+    color: #172b4d;
+  }
+  
+  .text2container {
+    width: 327px;
+    height: 147px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #344563;
+  }
+  
+  .SocialMediacontainer {
+    width: 200px;
+    height: 80px;
+    display: grid;
+    gap: 16px;
+  }
+  
+  .SupportingTextcontainer {
+    width: 117px;
+    height: 24px;
+    padding-top: 8px;
+  }
+  
+  .letsconnectcontainer {
+    width: 125px;
+    height: 24px;
+    margin: 0;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7f8cff;
+  }
+  
+  .SocilaFramecontainer {
+    width: 200px;
+    height: 40px;
+    background-image: url('Assets/Frame\ 1socialmedia.svg');
+    background-size: cover;
+  }
+  
+  .getResumebtcontainer {
+    width: 136px;
+    height: 22px;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #6070ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .getResumebttxtcontainer {
+    width: auto;
+    height: auto;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    color: #396df2;
+  }
+  
+  .skillListcontainer {
+    width: 327px;
+    height: 464.15px;
+  }
+  
+  .frame12container {
+    width: 327px;
+    height: 320.15px;
+  }
+  
+  .frame7container {
+    width: 327px;
+    height: 48px;
+    display: inline-flex;
+    justify-content: space-around;
+    padding-top: 24px;
+  }
+  
+  .Languagescontainer {
+    width: 237px;
+    height: 24px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0;
+    text-align: left;
+    margin: 0;
+  }
+  
+  .SeperatorBottomcontainer {
+    width: 327px;
+    height: 1px;
+    top: 71px;
+    background: #dfe1e6;
+    visibility: hidden;
+  }
+  
+  .NormalButtoncntcontainer {
+    width: 40px;
+    height: 40px;
+    top: 16px;
+    border-radius: 8;
+    padding: 8;
+  }
+  
+  .NormalButtoncontainer {
+    width: 24px;
+    height: 24px;
+    margin-left: auto;
+    margin-right: 26px;
+    background-image: url('Assets/Largernormalbutton.svg');
+    background-size: cover;
+  }
+  
+  .languagelistcontainer {
+    width: 303px;
+    height: 224.15px;
+    padding: 12px;
+    display: grid;
+    gap: 12px;
+  }
+  
+  .frame9container {
+    width: 303px;
+    height: 66.72px;
+    border-radius: 8px;
+    border-style: hidden;
+    display: flex;
+    background: #f7f7f9;
+  }
+  
+  .JScontainer {
+    width: 48px;
+    height: 48px;
+    margin: 9px 12px;
+    margin-bottom: 9.72px;
+    border: 1px hidden #fff;
+    background-image: url('Assets/Ellipse\ 1js.svg');
+    background-size: cover;
+  }
+  
+  .jstextcontainer {
+    width: 215px;
+    height: 24px;
+    top: 21px;
+    left: 76px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0;
+    text-align: left;
+    color: #253858;
+    padding: 21px 12px;
+  }
+  
+  .frame10container {
+    width: 303px;
+    height: 66.72px;
+    border-radius: 8px;
+    border-style: hidden;
+    display: flex;
+    background: #f7f7f9;
+  }
+  
+  .htmlcontainer {
+    width: 48px;
+    height: 48px;
+    margin: 9px 12px;
+    margin-bottom: 9.72px;
+    border: 1px hidden #fff;
+    background-image: url('Assets/Ellipse\ 1html.svg');
+    background-size: cover;
+  }
+  
+  .htmltextcontainer {
+    width: 215px;
+    height: 24px;
+    top: 21px;
+    left: 76px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0;
+    text-align: left;
+    color: #253858;
+    padding: 21px 12px;
+  }
+  
+  .frame11container {
+    width: 303px;
+    height: 66.72px;
+    border-radius: 8px;
+    border-style: hidden;
+    display: flex;
+    background: #f7f7f9;
+  }
+  
+  .csscontainer {
+    width: 48px;
+    height: 48px;
+    margin: 9px 12px;
+    margin-bottom: 9.72px;
+    border: 1px hidden #fff;
+    background-image: url('Assets/Ellipse\ 1css.svg');
+    background-size: cover;
+  }
+  
+  .csstextcontainer {
+    width: 215px;
+    height: 24px;
+    top: 21px;
+    left: 76px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0;
+    text-align: left;
+    color: #253858;
+    padding: 21px 12px;
+  }
+  
+  .frame8_2container {
+    width: 327px;
+    height: 48px;
+    display: inline-flex;
+    justify-content: space-around;
+    padding-top: 24px;
+  }
+  
+  .Frameworkscontainer {
+    width: 237px;
+    height: 24px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0;
+    text-align: left;
+    margin: 0;
+  }
+  
+  .SeperatorBottomvcontainer {
+    width: 327px;
+    height: 1px;
+    top: 71px;
+    background: #dfe1e6;
+  }
+  
+  .frame9_2container {
+    width: 327px;
+    height: 48px;
+    display: inline-flex;
+    justify-content: space-around;
+    padding-top: 24px;
+  }
+  
+  .Skillscontainer {
+    width: 237px;
+    height: 24px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0;
+    text-align: left;
+    margin: 0;
+  }
+  
+  .sideButtoncontainer {
+    width: 24px;
+    height: 24px;
+    margin-left: auto;
+    margin-right: 26px;
+    background-image: url('Assets/Largernormalbutton.svg');
+    background-size: cover;
+  }
+  
+
+
+
+.Container {
+    width: 375px;
+    height: 92px;
+    padding-top: 44px;
+
+
+  }
+  
+  .ToolbarDark {
+
+    width: 375px;
+    height: 48px;
+    top: 44px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 4px 24px 4px 12px;
+
+  }
+  .MyLogoContainer {
+    width: 100px;
+    height: 40px;
+    top: 4px;
+    left: 12px;
+  }
+  
+  .MyLogo {
+    width: 76px;
+    height: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    align-content: center;
+    color: #6070ff;
+  }
+  
+  .BurgerButtonContainer {
+    width: 40px;
+    height: 40px;
+    top: 4px;
+    left: 311px;
+    padding: 8px;
+    border-radius: 8px;
+   
+
+    
+  }
+  
+  .BurgerButtonContainer2 {
+    width: 24px;
+    height: 24px;
+    padding: 6px 3px 6px 3px;
+   
+  }
+  
+  .BurgerButton {
+    width: 18px;
+    height: 12px;
+    top: 4px;
+    left: 3px;
+    color: #6070ff;
+  }
+  .MainPage {
+    width: 375px;
+    height: 604px;
+    top: 92px;
+    padding: 114px 24px 114px 24px;
+    background-image: url('Assets/header-shapes\ mobileshape.png');
+    background-repeat: no-repeat;
+    
+  }
+  
+  .header2 {
+    width: 327px;
+    height: 150px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    color: #172b4d;
+  }
+  
+  .Body2 {
+    width: 327px;
+    height: 146px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #344563;
+  }
+  
+  .socialcontainer {
+    width: 122px;
+    height: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7f8cff;
+    gap: 8px;
+    
+}
+  
+  .SocialMediaIcons {
+    width: 170.17px;
+    height: 20px;
+    color: #505f79;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .twitter {
+    width: 19.99px;
+    height: 19.96px;
+    background-image: url('Assets/Vectortwitter.svg');
+  }
+  
+  .linkedin {
+    margin-left: 19.01px;
+    width: 20px;
+    height: 20px;
+    background-image: url('Assets/Linkedin\ iconlinkedin.svg');
+    background-size: cover;
+  }
+  
+  .VM {
+    margin-left: 20px;
+    width: 20px;
+    height: 16px;
+    background-image: url('Assets/Vectorm.svg');
+    margin-top: 2px;
+  }
+  
+  .github {
+    margin-left: 20px;
+    width: 17.99px;
+    height: 20px;
+    background-image: url('Assets/Vectorcat.svg');
+    background-size: cover;
+  }
+  
+  .Hand {
+    margin-left: 19.01px;
+    width: 14.17px;
+    height: 20px;
+    background-image: url('Assets/Vectorvictory.svg');
+    background-size: cover;
+  }
